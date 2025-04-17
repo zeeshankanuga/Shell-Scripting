@@ -1,0 +1,22 @@
+✅ AWS CLI is installed.
+aws-cli/2.26.2 Python/3.13.2 Linux/6.8.0-1024-aws exe/x86_64.ubuntu.24
+
+🔎 Fetching AWS resources in region: ...
+
+--- 🖥️ EC2 Instances ---
+
+--- 📦 S3 Buckets ---
+jenkins-s3-backup	newbucket12332	zeeshan-s3-backend-xyz
+
+--- 🌐 VPC IDs ---
+✅ AWS CLI is installed.
+aws-cli/2.26.2 Python/3.13.2 Linux/6.8.0-1024-aws exe/x86_64.ubuntu.24
+
+🔎 Fetching AWS resources in region: ...
+
+--- 🖥️ EC2 Instances ---
+
+--- 📦 S3 Buckets ---
+jenkins-s3-backup	newbucket12332	zeeshan-s3-backend-xyz
+
+--- 🌐 VPC IDs ---
